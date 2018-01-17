@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328109347325",
+    "firebase_url": "https://fiap-firebase.firebaseio.com",
+    "project_id": "fiap-firebase",
+    "storage_bucket": "fiap-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328109347325:android:447258942b2b7bbf",
+        "android_client_info": {
+          "package_name": "br.com.tairoroberto.fiapfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328109347325-bqmv1vall6aq1t22f9k7gjjieuulv8a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tairoroberto.fiapfirebase",
+            "certificate_hash": "4582ee6de30b98e248e647ff51d40f3ca9022ba4"
+          }
+        },
+        {
+          "client_id": "328109347325-c6dojfvd2uda1ht55d0aj05fktsil6rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbXGwr_7WzJCTSlPf4fDrJ0iqSUj0-NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328109347325-c6dojfvd2uda1ht55d0aj05fktsil6rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

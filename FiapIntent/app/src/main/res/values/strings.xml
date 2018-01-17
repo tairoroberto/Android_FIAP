@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fiap Intent</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">senha</string>
+    <string name="login">Login</string>
+    <string name="nao_sou_cadastrado">Não sou cadastrado</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="receber_sms">RECEBER SMS</string>
+</resources>

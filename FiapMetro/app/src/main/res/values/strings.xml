@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fiap Metro</string>
+    <string name="linha_do_metro">Linhas do metrô</string>
+    <string name="title_activity_maps">Mapas</string>
+</resources>
